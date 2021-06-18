@@ -1,6 +1,6 @@
 # file-encryptor-cpp
 
-Info: A simple yet powerful txt file encryptor/decryptor in C++ programming language.
+Info: A simple yet powerful .txt file encryptor/decryptor in C++ programming language.
 
 # How it works
 
